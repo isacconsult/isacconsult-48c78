@@ -8,13 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: În 10 minute
-    text: >+
-      În 10 minute îți spun ce comportament să folosești și cum să îl aplici,
-      lucrând exclusiv cu tipologia persoanei cu care interacționezi.
-
-
-
-
+    text: >
+      îți spun ce comportament să folosești și cum să îl aplici, lucrând
+      exclusiv cu tipologia persoanei cu care interacționezi.
     actions:
       - label: Get started
         altText: ''

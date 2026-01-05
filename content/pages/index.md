@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ISAC - Pozitionarea Comportamentale Contextuala
+      text: ISAC - Pozitionarea Comportamentala Contextuala
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

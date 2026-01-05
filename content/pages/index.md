@@ -7,7 +7,7 @@ sections:
       text: ISAC - Pozitionarea Comportamentală Contextuală
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: În 10 minute
     text: >+
       În 10 minute îți spun ce comportament să folosești și cum să îl aplici,
       lucrând exclusiv cu tipologia persoanei cu care interacționezi.

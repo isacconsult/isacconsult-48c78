@@ -139,7 +139,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: 👉 Programeaza ISAC Rapid
         altText: ''
         url: /
         showIcon: false

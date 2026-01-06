@@ -80,7 +80,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            justifyContent: flex-start
+            justifyContent: flex-end
             textAlign: justify
             borderColor: border-light
         image:

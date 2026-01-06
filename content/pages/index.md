@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ISAC - Pozitionarea Comportamentală Contextuală
+      text: ISAC - Pozitionarea Comportamentală Contextuală™
       color: text-dark
       type: TitleBlock
       styles:
@@ -48,6 +48,8 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: CU CINE LUCREZ - MINI-CAZURI
@@ -62,14 +64,12 @@ sections:
         title: Copii
         subtitle: 'Situatie: copilul testează limitele.'
         text: >+
-          ISAC: ajustezi reactia adultului → limită clară, consecventă, fără
-          escaladare.
+          <div style="text-align: left">ISAC: ajustezi reactia adultului →
+          limită clară, consecventă, fără escaladare.</div>
 
 
-          Rezultat: comportamentul se stabilizeaza.
-
-
-
+          <div style="text-align: left">Rezultat: comportamentul se
+          stabilizeaza.</div>
 
         actions: []
         elementId: null
@@ -83,8 +83,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            justifyContent: center
-            textAlign: center
+            justifyContent: flex-end
+            textAlign: justify
             borderColor: border-light
         image:
           type: ImageBlock
@@ -94,16 +94,14 @@ sections:
           styles:
             self:
               borderRadius: x-large
+              borderWidth: 2
+              borderColor: border-light
       - title: Adolescenti
         subtitle: 'Situatie: contestare constantă.'
-        text: |+
+        text: |
           ISAC: schimbi pozitia → mai putină confruntare, mai multa structura.
 
           Rezultat: conflictul scade, cooperarea creste.
-
-
-
-
         image:
           url: /images/teen.jpeg
           altText: Featured icon two
@@ -232,6 +230,40 @@ sections:
           - pt-16
           - pl-16
           - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: CE FAC CONCRET (formularea standard ISAC)
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: Ascult descrierea ta
+    text: >
+      despre cealaltă persoană, identific tipologia ei comportamentalã si
+      completez cu observatii bazate pe comportamentele prezentate.
+
+
+      Apoi îti spun ce comportament să folosesti si cum să-l aplici în raport cu
+      acea tipologie si context.
+    actions:
+      - type: Button
+        label: 👉 Programeaza ISAC Rapid
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      altText: Fun feature preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col
         justifyContent: center
       subtitle:
         textAlign: center

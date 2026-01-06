@@ -95,14 +95,10 @@ sections:
               borderColor: border-light
       - title: Adolescenti
         subtitle: 'Situatie: contestare constantă.'
-        text: |+
+        text: |
           ISAC: schimbi pozitia → mai putină confruntare, mai multa structura.
 
           Rezultat: conflictul scade, cooperarea creste.
-
-
-
-
         image:
           url: /images/teen.jpeg
           altText: Featured icon two

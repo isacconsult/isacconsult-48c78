@@ -238,7 +238,7 @@ sections:
       type: TitleBlock
       text: CE FAC CONCRET (formularea standard ISAC)
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Ascult descrierea ta
     text: >+
       Ascult descrierea ta despre cealaltă persoană, identific tipologia ei
       comportamentalã si completez cu observatii bazate pe

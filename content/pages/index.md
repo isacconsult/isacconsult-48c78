@@ -7,12 +7,23 @@ sections:
       text: ISAC - Pozitionarea Comportamentală Contextuală
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: În 10 minute
-    text: >
+    text: >+
       îți spun ce comportament să folosești și cum să îl aplici, lucrând
       exclusiv cu tipologia persoanei cu care interacționezi.
+
+
+      Consultantă comportamentală orientată spre decizie, pozitionare si
+      actiune.
+
+
+
+
     actions:
-      - label: Get started
+      - label: 👉 Programeaza ISAC Rapid
         altText: ''
         url: /
         showIcon: false
@@ -21,17 +32,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
-      url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -46,26 +47,33 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: CU CINE LUCREZ - MINI-CAZURI
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: (exemple clare)
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Copii
+        subtitle: 'Situatie: copilul testează limitele.'
+        text: >+
+          ISAC: ajustezi reactia adultului → limită clară, consecventă, fără
+          escaladare.
+
+
+          Rezultat: comportamentul se stabilizeaza.
+
+
+
+
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -76,28 +84,33 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: left
+            textAlign: center
+            borderColor: border-light
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/baby.jpeg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Adolescenti
+        subtitle: 'Situatie: contestare constantă.'
+        text: |+
+          ISAC: schimbi pozitia → mai putină confruntare, mai multa structura.
+
+          Rezultat: conflictul scade, cooperarea creste.
+
+
+
+
         image:
-          url: /images/icon2.svg
+          url: /images/teen.jpeg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -110,19 +123,23 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Tineri
+        subtitle: 'Situatie: evitarea responsabilitătii.'
+        text: |+
+          ISAC: clarifici asteptările si retragi sustinerea neproductiva.
+
+          Rezultat: asumare sau delimitare clară.
+
+
+
+
         image:
-          url: /images/icon3.svg
+          url: /images/young.jpeg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -133,8 +150,70 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+      - type: FeaturedItem
+        title: Adulti
+        tagline: ''
+        subtitle: 'Situatie: control, pasiv-agresiv, manipulare.'
+        text: |+
+          ISAC: modifici reactia ta → iesi din jocul lor.
+
+          Rezultat: dinamica de putere se schimba.
+
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/adult.jpeg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Persoane în vârstă
+        tagline: ''
+        subtitle: 'Situatie: rigiditate, rezistentă.'
+        text: |+
+          ISAC: pozitionare calma, ferma, fara confruntare inutila.
+
+          Rezultat: relatie functionalã, cu limite clare.
+
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/old.jpeg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
     actions:
-      - label: Get started
+      - label: 👉 Programeaza ISAC Rapid
         altText: ''
         url: /
         showIcon: false
@@ -143,13 +222,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark

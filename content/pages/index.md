@@ -62,6 +62,9 @@ sections:
           escaladare.
 
 
+          Rezultat: comportamentul se stabilizeaza.
+
+
 
 
         actions: []

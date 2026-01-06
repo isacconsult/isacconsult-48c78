@@ -85,7 +85,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/child.webp
+          url: /images/baby.jpeg
           styles:
             self:
               borderRadius: x-large

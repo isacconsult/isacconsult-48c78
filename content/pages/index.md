@@ -141,7 +141,7 @@ sections:
       - type: FeaturedItem
         title: Adulti
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'Situatie: control, pasiv-agresiv, manipulare.'
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

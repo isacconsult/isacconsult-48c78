@@ -244,10 +244,7 @@ sections:
     subtitle: Ascult descrierea ta
     text: >
       despre cealaltă persoană, identific tipologia ei comportamentalã si
-      completez cu observatii bazate pe
-
-
-      comportamentele prezentate.
+      completez cu observatii bazate pe comportamentele prezentate.
 
 
       Apoi îti spun ce comportament să folosesti si cum să-l aplici în raport cu

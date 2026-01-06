@@ -56,7 +56,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Copii
-        subtitle: Numbers Done
+        subtitle: 'Situatie: copilul testează limitele.'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

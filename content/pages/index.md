@@ -142,8 +142,12 @@ sections:
         title: Adulti
         tagline: ''
         subtitle: 'Situatie: control, pasiv-agresiv, manipulare.'
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          ISAC: modifici reactia ta → iesi din jocul lor.
+
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

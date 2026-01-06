@@ -254,7 +254,7 @@ sections:
       acea tipologie si context.
     actions:
       - type: Button
-        label: Get started
+        label: 👉 Programeaza ISAC Rapid
         url: /
         icon: arrowRight
         iconPosition: right

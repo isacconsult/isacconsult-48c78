@@ -206,6 +206,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            justifyContent: center
     actions:
       - label: 👉 Programeaza ISAC Rapid
         altText: ''

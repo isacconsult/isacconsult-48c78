@@ -159,7 +159,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/adult.jpeg
           altText: Placeholder text
           styles:
             self:

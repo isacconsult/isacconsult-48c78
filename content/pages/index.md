@@ -129,7 +129,7 @@ sections:
 
 
         image:
-          url: /images/icon3.svg
+          url: /images/young.jpeg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock

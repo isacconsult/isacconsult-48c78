@@ -165,7 +165,7 @@ sections:
       - type: FeaturedItem
         title: Persoane în vârstă
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'Situatie: rigiditate, rezistentă.'
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

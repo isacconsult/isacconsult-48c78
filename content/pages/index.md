@@ -179,8 +179,14 @@ sections:
         title: Persoane în vârstă
         tagline: ''
         subtitle: 'Situatie: rigiditate, rezistentă.'
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          ISAC: pozitionare calma, ferma, fara confruntare inutila.
+
+          Rezultat: relatie functionalã, cu limite clare.
+
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

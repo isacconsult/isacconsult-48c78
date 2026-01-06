@@ -123,6 +123,8 @@ sections:
         text: |+
           ISAC: clarifici asteptările si retragi sustinerea neproductiva.
 
+          Rezultat: asumare sau delimitare clară.
+
 
 
 

@@ -64,8 +64,11 @@ sections:
         title: Copii
         subtitle: 'Situatie: copilul testează limitele.'
         text: >+
-          <div style="text-align: left">ISAC: ajustezi reactia adultului →
-          limită clară, consecventă, fără escaladare.Rezultat: comportamentul se
+          ISAC: ajustezi reactia adultului → limită clară, consecventă, fără
+          escaladare.
+
+
+          <div style="text-align: left">Rezultat: comportamentul se
           stabilizeaza.</div>
 
         actions: []

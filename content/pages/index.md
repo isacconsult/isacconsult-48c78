@@ -239,9 +239,21 @@ sections:
       text: CE FAC CONCRET (formularea standard ISAC)
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Ascult descrierea ta despre cealaltă persoană, identific tipologia ei
+      comportamentalã si completez cu observatii bazate pe
+
+
+      comportamentele prezentate.
+
+
+
+      Apoi îti spun ce comportament să folosesti si cum să-l aplici în raport cu
+      acea tipologie si context.
+
+
+
+
     actions:
       - type: Button
         label: Get started

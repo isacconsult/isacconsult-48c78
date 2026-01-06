@@ -238,6 +238,9 @@ sections:
       type: TitleBlock
       text: CE FAC CONCRET (formularea standard ISAC)
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: Ascult descrierea ta
     text: >
       despre cealaltă persoană, identific tipologia ei comportamentalã si

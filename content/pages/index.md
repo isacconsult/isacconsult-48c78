@@ -274,6 +274,7 @@ sections:
       self:
         alignItems: center
         flexDirection: col
+        justifyContent: center
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg

@@ -92,6 +92,7 @@ sections:
             self:
               borderRadius: x-large
               borderWidth: 2
+              borderColor: border-light
       - title: Adolescenti
         subtitle: 'Situatie: contestare constantă.'
         text: |+

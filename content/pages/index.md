@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Cu cine lucrez
+      text: CU CINE LUCREZ - MINI-CAZURI (exemple clare)
       color: text-dark
       styles:
         self:

@@ -239,21 +239,16 @@ sections:
       text: CE FAC CONCRET (formularea standard ISAC)
       color: text-dark
     subtitle: Ascult descrierea ta
-    text: >+
-      Ascult descrierea ta despre cealaltă persoană, identific tipologia ei
-      comportamentalã si completez cu observatii bazate pe
+    text: >
+      despre cealaltă persoană, identific tipologia ei comportamentalã si
+      completez cu observatii bazate pe
 
 
       comportamentele prezentate.
 
 
-
       Apoi îti spun ce comportament să folosesti si cum să-l aplici în raport cu
       acea tipologie si context.
-
-
-
-
     actions:
       - type: Button
         label: Get started

@@ -20,7 +20,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: Programeaza ISAC Rapid
         altText: ''
         url: /
         showIcon: false

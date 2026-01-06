@@ -163,7 +163,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item two
+        title: Persoane în vârstă
         tagline: ''
         subtitle: This is the item subtitle
         text: |

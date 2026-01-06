@@ -100,7 +100,7 @@ sections:
 
 
         image:
-          url: /images/teenage.avif
+          url: /images/teen.jpeg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock

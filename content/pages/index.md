@@ -115,10 +115,12 @@ sections:
         type: FeaturedItem
       - title: Tineri
         subtitle: 'Situatie: evitarea responsabilitătii.'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          ISAC: clarifici asteptările si retragi sustinerea neproductiva.
+
+
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three

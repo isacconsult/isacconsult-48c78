@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: CU CINE LUCREZ - MINI-CAZURI (exemple clare)
+      text: CU CINE LUCREZ - MINI-CAZURI
       color: text-dark
       styles:
         self:

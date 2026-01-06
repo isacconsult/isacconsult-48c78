@@ -94,6 +94,8 @@ sections:
         text: |+
           ISAC: schimbi pozitia → mai putină confruntare, mai multa structura.
 
+          Rezultat: conflictul scade, cooperarea creste.
+
 
 
 

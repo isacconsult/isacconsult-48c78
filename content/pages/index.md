@@ -95,7 +95,7 @@ sections:
 
 
         image:
-          url: /images/icon2.svg
+          url: /images/teenage.avif
           altText: Featured icon two
           elementId: ''
           type: ImageBlock

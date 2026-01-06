@@ -152,6 +152,8 @@ sections:
         text: |+
           ISAC: modifici reactia ta → iesi din jocul lor.
 
+          Rezultat: dinamica de putere se schimba.
+
 
 
 
